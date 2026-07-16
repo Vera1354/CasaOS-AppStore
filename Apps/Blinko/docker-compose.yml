@@ -1,7 +1,7 @@
 name: blinko
 services:
   blinko:
-    image: blinkospace/blinko:1.8.7
+    image: blinkospace/blinko:1.8.8
     container_name: blinko
     restart: unless-stopped
     networks:
